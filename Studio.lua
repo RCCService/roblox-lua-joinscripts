@@ -1,0 +1,1 @@
+-- SingleplayerSharedScript.lua inserted here --- game:GetService("ChangeHistoryService"):SetEnabled(true) game:GetService("Players").LocalPlayer.userId = {2} visit:SetPing("{0}", {1}) pcall(function() game:SetScreenshotSEOInfo("{3}") end) pcall(function() game:SetVideoSEOInfo("{4}") end)

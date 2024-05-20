@@ -1,0 +1,1 @@
+-- SingleplayerSharedScript.lua inserted here --- message.Text = "Loading Place. Please wait..." coroutine.yield() game:Load("{0}") visit:SetUploadUrl("{1}") message.Parent = nil game:GetService("ChangeHistoryService"):SetEnabled(true) visit:SetPing("{2}", {3}) game:HttpGet("{4}")
